@@ -3,4 +3,3 @@ Criação da tela de perfil do Instagram responsivo, usando HTML, CSS e Javascri
 
 ## Projeto final
 ![Uploading foto.png…]()
-
